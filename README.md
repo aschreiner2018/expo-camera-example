@@ -22,3 +22,4 @@ As cameras frontal e traseira podem ser alternadas ao clicar no botão "Trocar".
 <img src="screenshot01.jpg" width="40%" height="40%">
 <img src="screenshot02.jpg" width="40%" height="40%">
 
+
